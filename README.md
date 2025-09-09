@@ -25,7 +25,7 @@ A C++ implementation of the classic **Peg Solitaire** puzzle using a **recursive
 - `peg_solitaireSolver.cpp` – Implementation of solver  
 
 ### Output & Documentation
-- [Peg Run.png](Peg%20Run.png) – Example output of the program  
+[![Peg Run](Peg%20Run.png)](Peg%20Run.png) – Example output of the program  
 - [move & unmove.pdf](move%20&%20unmove.pdf) – Explanation of move/unmove functions  
 - [PegSolitaire.pdf](PegSolitaire.pdf) – Full project documentation (Overleaf)  
 
